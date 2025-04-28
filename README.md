@@ -20,4 +20,9 @@ I'm currently open to opportunities where I can bring my technical and analytica
 
 Let's stay in touch! Feel free to connect with me here:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ricardovargas-contact)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardovargas-contact/)
+
+### 🧰 Tech Stack
+SQL • SAP S4 • Manhattan WMS • Excel • Power BI
+
