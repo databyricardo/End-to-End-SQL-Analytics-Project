@@ -12,6 +12,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Enter about me here
 
-Let's stay in touch! Feel free to connect with me on LinkedIn:
+Let's stay in touch! Feel free to connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardovargas-contact/)
