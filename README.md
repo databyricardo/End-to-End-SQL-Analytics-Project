@@ -1,6 +1,6 @@
 # End-to-End SQL Analytics Project
 
-This project demonstrates a complete SQL-based analytics workflow, showcasing how to explore, analyze, and report on data using best practices in structured query development. Built for data analysts and business intelligence professionals, it covers everything from database profiling to performance evaluation and reporting.
+This project demonstrates a complete SQL-based analytics workflow—from database creation to advanced reporting. Designed for data analysts and BI professionals, it provides a structured, modular approach to explore, analyze, and extract actionable insights from a sales dataset. Each SQL script focuses on a specific analytical task, showcasing best practices and real-world business logic.
 
 ---
 
@@ -8,31 +8,37 @@ This project demonstrates a complete SQL-based analytics workflow, showcasing ho
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## ✅ Objectives
+## ✅ What This Project Covers
 
-Demonstrate practical SQL skills with real-world analytical logic
+📁 Database setup with star schema (dimensional modeling)
 
-Explore dimensional, temporal, and quantitative data
+🔍 Exploratory data analysis (EDA) across dimensions and dates
 
-Segment and rank entities (e.g., customers, products)
+📏 Aggregated metrics & KPIs (sales, quantity, orders, customers)
 
-Build time-based and cumulative analyses
+📈 Time-series and cumulative trend analysis
 
-Generate clean, report-ready outputs for business use
+🚀 Performance tracking: YoY/MoM comparisons using window functions
 
-## 📁 Project Structure
+🧠 Customer and product segmentation
+
+📊 Executive-level reporting with KPIs and dynamic views
+
+<pre> ## 🗂 Project Structure | File / View | Description | |----------------------------------|-------------| | `00_init_database.sql` | Creates and loads a full analytics database with dimensional tables. | | `01_database_exploration.sql` | Explores schema, table structures, and metadata. | | `02_dimensions_exploration.sql` | Analyzes unique values in customer and product dimensions. | | `03_date_range_exploration.sql` | Examines time coverage and customer age distribution. | | `04_measures_exploration.sql` | Computes high-level KPIs: total sales, orders, quantities, etc. | | `05_magnitude_analysis.sql` | Breaks down key metrics by categories like gender, country, and product. | | `06_ranking_analysis.sql` | *(Optional next step: top N analysis, etc.)* | | `07_change_over_time_analysis.sql` | Analyzes sales and customer trends over time. | | `08_cumulative_analysis.sql` | Builds cumulative KPIs using window functions. | | `09_performance_analysis.sql` | Measures YoY performance using `LAG()` and `AVG()` windows. | | `10_data_segmentation.sql` | Segments customers and products based on behavior and cost tiers. | | `11_part_to_whole_analysis.sql` | Evaluates contribution to overall sales (percent of total). | | `12_report_customers.sql` | Creates a summary view of customer KPIs, segments, and behaviors. | | `13_report_products.sql` | Creates a view showing product performance, segmentation, and revenue metrics. | </pre>
 
 ## 🧠 Skills Demonstrated
 
-Advanced SQL querying
+SQL for data profiling and schema exploration
 
-Analytical thinking & business logic
+Dimensional modeling (star schema: fact + dimensions)
 
-Trend analysis and KPI development
+Aggregate & window functions (SUM(), LAG(), OVER())
 
-Segmentation, ranking, and reporting
+Conditional logic with CASE for segmentation
 
-Clean, maintainable SQL structure
+Trend & cohort analysis
+
+Report generation using SQL views
 
 ## 🌟 About Me
 
