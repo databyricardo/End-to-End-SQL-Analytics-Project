@@ -55,13 +55,7 @@ Report generation using SQL views
 
 ## 🌟 About Me
 
-Hi, I’m a Logistics Systems Analyst with over 5 years of experience improving how distribution centers operate — one process, report, and system enhancement at a time.
-
-I specialize in turning operational chaos into clarity, using tools like SQL, Manhattan WMS, and SAP S4 to uncover insights and implement solutions that make a real difference. From increasing system efficiency across multiple locations to leading cross-functional projects, I thrive where tech meets logistics.
-
-What sets me apart? I don’t just analyze — I solve, optimize, and deliver. I’ve built tools that save hours of manual work, led initiatives that boosted productivity, and helped teams work smarter with data-backed decisions.
-
-I'm currently open to opportunities where I can bring my technical and analytical skills to a collaborative, growth-focused environment. If you're looking for someone who understands the details but thinks big-picture, we should talk.
+This project demonstrates how data analytics can drive actionable insights in sales, customer behavior, and product performance. It showcases an end-to-end SQL workflow that can be applied to real-world business contexts, making it easier for analysts to extract valuable insights and improve business decision-making.
 
 Let's stay in touch! Feel free to connect with me here:
 
