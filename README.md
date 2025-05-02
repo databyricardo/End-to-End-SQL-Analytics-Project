@@ -10,21 +10,38 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## ✅ What This Project Covers
 
-📁 Database setup with star schema (dimensional modeling)
+Database setup with star schema (dimensional modeling)
 
-🔍 Exploratory data analysis (EDA) across dimensions and dates
+Exploratory data analysis (EDA) across dimensions and dates
 
-📏 Aggregated metrics & KPIs (sales, quantity, orders, customers)
+Aggregated metrics & KPIs (sales, quantity, orders, customers)
 
-📈 Time-series and cumulative trend analysis
+Time-series and cumulative trend analysis
 
-🚀 Performance tracking: YoY/MoM comparisons using window functions
+Performance tracking: YoY/MoM comparisons using window functions
 
-🧠 Customer and product segmentation
+Customer and product segmentation
 
-📊 Executive-level reporting with KPIs and dynamic views
+Executive-level reporting with KPIs and dynamic views
 
-<pre> ## 🗂 Project Structure | File / View | Description | |----------------------------------|-------------| | `00_init_database.sql` | Creates and loads a full analytics database with dimensional tables. | | `01_database_exploration.sql` | Explores schema, table structures, and metadata. | | `02_dimensions_exploration.sql` | Analyzes unique values in customer and product dimensions. | | `03_date_range_exploration.sql` | Examines time coverage and customer age distribution. | | `04_measures_exploration.sql` | Computes high-level KPIs: total sales, orders, quantities, etc. | | `05_magnitude_analysis.sql` | Breaks down key metrics by categories like gender, country, and product. | | `06_ranking_analysis.sql` | *(Optional next step: top N analysis, etc.)* | | `07_change_over_time_analysis.sql` | Analyzes sales and customer trends over time. | | `08_cumulative_analysis.sql` | Builds cumulative KPIs using window functions. | | `09_performance_analysis.sql` | Measures YoY performance using `LAG()` and `AVG()` windows. | | `10_data_segmentation.sql` | Segments customers and products based on behavior and cost tiers. | | `11_part_to_whole_analysis.sql` | Evaluates contribution to overall sales (percent of total). | | `12_report_customers.sql` | Creates a summary view of customer KPIs, segments, and behaviors. | | `13_report_products.sql` | Creates a view showing product performance, segmentation, and revenue metrics. | </pre>
+📁 Project Structure
+
+| File / View                        | Description                                                                                 |
+| ---------------------------------- | ------------------------------------------------------------------------------------------- |
+| `00_init_database.sql`             | Creates and loads a full analytics database with dimensional tables.                        |
+| `01_database_exploration.sql`      | Explores schema, table structures, and metadata.                                            |
+| `02_dimensions_exploration.sql`    | Analyzes unique values in customer and product dimensions.                                  |
+| `03_date_range_exploration.sql`    | Examines time coverage and customer age distribution.                                       |
+| `04_measures_exploration.sql`      | Computes high-level KPIs: total sales, orders, quantities, etc.                             |
+| `05_magnitude_analysis.sql`        | Breaks down key metrics by categories like gender, country, and product.                    |
+| `06_ranking_analysis.sql`          | (Can be added next — ranking top customers/products by sales, etc.)                         |
+| `07_change_over_time_analysis.sql` | Analyzes sales and customer trends over time.                                               |
+| `08_cumulative_analysis.sql`       | Builds cumulative KPIs using window functions.                                              |
+| `09_performance_analysis.sql`      | Measures YoY performance and average comparisons using `LAG()` and `AVG()` windows.         |
+| `10_data_segmentation.sql`         | Segments customers and products based on behavior and cost tiers.                           |
+| `11_part_to_whole_analysis.sql`    | Evaluates category contributions to total sales (percent of whole).                         |
+| `12_report_customers.sql`          | Creates a view summarizing customer KPIs: recency, average order value, monthly spend, etc. |
+| `13_report_products.sql`           | Builds a product performance view with segmentation, AOR, and revenue metrics.              |
 
 ## 🧠 Skills Demonstrated
 
