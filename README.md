@@ -30,7 +30,7 @@ Executive-level reporting with KPIs and dynamic views
 | `03_date_range_exploration.sql`    | Examines time coverage and customer age distribution.                                       |
 | `04_measures_exploration.sql`      | Computes high-level KPIs: total sales, orders, quantities, etc.                             |
 | `05_magnitude_analysis.sql`        | Breaks down key metrics by categories like gender, country, and product.                    |
-| `06_ranking_analysis.sql`          | (Can be added next — ranking top customers/products by sales, etc.)                         |
+| `06_ranking_analysis.sql`          | Ranking top customers/products by sales, etc.                                               |
 | `07_change_over_time_analysis.sql` | Analyzes sales and customer trends over time.                                               |
 | `08_cumulative_analysis.sql`       | Builds cumulative KPIs using window functions.                                              |
 | `09_performance_analysis.sql`      | Measures YoY performance and average comparisons using `LAG()` and `AVG()` windows.         |
