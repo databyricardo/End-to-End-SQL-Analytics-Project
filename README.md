@@ -24,7 +24,7 @@ Customer and product segmentation
 
 Executive-level reporting with KPIs and dynamic views
 
-📁 Project Structure
+## 📁 Project Structure
 
 | File / View                        | Description                                                                                 |
 | ---------------------------------- | ------------------------------------------------------------------------------------------- |
