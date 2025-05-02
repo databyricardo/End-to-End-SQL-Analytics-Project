@@ -1,12 +1,38 @@
-# SQL Data Analytics Project
+# End-to-End SQL Analytics Project
 
-A curated collection of SQL scripts for data exploration, analysis, and reporting. This repository features queries covering a range of analytical themes—including database profiling, key metrics, time-series trends, cumulative analytics, segmentation, and more. Designed for data analysts and BI professionals, each script showcases best practices and provides a quick-start framework for working with relational databases.
+This project demonstrates a complete SQL-based analytics workflow, showcasing how to explore, analyze, and report on data using best practices in structured query development. Built for data analysts and business intelligence professionals, it covers everything from database profiling to performance evaluation and reporting.
 
 ---
 
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## ✅ Objectives
+
+Demonstrate practical SQL skills with real-world analytical logic
+
+Explore dimensional, temporal, and quantitative data
+
+Segment and rank entities (e.g., customers, products)
+
+Build time-based and cumulative analyses
+
+Generate clean, report-ready outputs for business use
+
+## 📁 Project Structure
+
+## 🧠 Skills Demonstrated
+
+Advanced SQL querying
+
+Analytical thinking & business logic
+
+Trend analysis and KPI development
+
+Segmentation, ranking, and reporting
+
+Clean, maintainable SQL structure
 
 ## 🌟 About Me
 
