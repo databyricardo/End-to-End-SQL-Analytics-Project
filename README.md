@@ -53,19 +53,19 @@ This project demonstrates a complete SQL-based analytics workflow—from databas
 
 - Report generation using SQL views
 
-## 📊 Visualizing Insights with Power BI
+## 📊 Power BI Dashboard: Customer Behavior & Sales
 
-As a bonus to the SQL analytics, I built a Power BI dashboard to visualize key patterns in customer behavior and sales performance.
+To complement the SQL analysis, I developed a Power BI dashboard that visualizes customer behavior, sales performance, and segmentation insights.
 
 📄 [View the Dashboard (PDF)](powerbi-dashboard/End-to-End%20SQL%20Analytics%20Project%20Dashboard.pdf)
 
 🖼️ Preview:
 ![Dashboard Preview](powerbi-dashboard/dashboard.png)
 
-**Key Insights:**
-- Total Sales: $29M
-- Highest spending age group: 50+
-- VIP customers contribute over 35% of revenue
+### 🔑 Key Insights:
+- 💰 **Total Sales:** $29M from 28K orders across 18K unique customers
+- 🧓 **Top Spending Age Group:** 50 and above
+- 🏅 **Customer Segment Contribution:** VIP customers account for 35% of revenue
 
 ## 🌟 About Me
 
