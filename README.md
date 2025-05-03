@@ -6,19 +6,19 @@ This project demonstrates a complete SQL-based analytics workflow—from databas
 
 ## ✅ What This Project Covers
 
-Database setup with star schema (dimensional modeling)
+- Database setup with star schema (dimensional modeling)
 
-Exploratory data analysis (EDA) across dimensions and dates
+- Exploratory data analysis (EDA) across dimensions and dates
 
-Aggregated metrics & KPIs (sales, quantity, orders, customers)
+- Aggregated metrics & KPIs (sales, quantity, orders, customers)
 
-Time-series and cumulative trend analysis
+- Time-series and cumulative trend analysis
 
-Performance tracking: YoY/MoM comparisons using window functions
+- Performance tracking: YoY/MoM comparisons using window functions
 
-Customer and product segmentation
+- Customer and product segmentation
 
-Executive-level reporting with KPIs and dynamic views
+- Executive-level reporting with KPIs and dynamic views
 
 ## 📁 Project Structure
 
@@ -41,17 +41,31 @@ Executive-level reporting with KPIs and dynamic views
 
 ## 🧠 Skills Demonstrated
 
-SQL for data profiling and schema exploration
+- SQL for data profiling and schema exploration
 
-Dimensional modeling (star schema: fact + dimensions)
+- Dimensional modeling (star schema: fact + dimensions)
 
-Aggregate & window functions (SUM(), LAG(), OVER())
+- Aggregate & window functions (SUM(), LAG(), OVER())
 
-Conditional logic with CASE for segmentation
+- Conditional logic with CASE for segmentation
 
-Trend & cohort analysis
+- Trend & cohort analysis
 
-Report generation using SQL views
+- Report generation using SQL views
+
+## 📊 Power BI Dashboard (Customer Behavior & Sales)
+
+I created a Power BI dashboard to visualize customer behavior and sales performance.
+
+📄 [View the dashboard (PDF)](powerbi-dashboard/dashboard.pdf)
+
+🖼️ Preview:
+![Dashboard Preview](powerbi-dashboard/dashboard.png)
+
+Key insights:
+- Total Sales: $29M
+- Highest spending age group: 50+
+- VIP customers account for over 35% of revenue
 
 ## 🌟 About Me
 
