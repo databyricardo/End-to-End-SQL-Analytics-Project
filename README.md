@@ -75,7 +75,7 @@ Let's stay in touch! Feel free to connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ricardovargas-contact)
 
-### 🧰 Project Tech Stack
+## 🧰 Project Tech Stack
 - Microsoft SQL Server
 - Power BI
 
