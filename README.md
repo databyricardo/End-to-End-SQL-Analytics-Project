@@ -57,9 +57,8 @@ This project demonstrates a complete SQL-based analytics workflow—from databas
 
 To complement the SQL analysis, I developed a Power BI dashboard that visualizes customer behavior, sales performance, and segmentation insights.
 
-📄 [View the Dashboard (PDF)](powerbi-dashboard/Customer%20Behavior%20and%20Sales%20Analysis%20Dashboard.png)
-
 🖼️ Preview:
+
 ![Dashboard Preview](powerbi-dashboard/Customer%20Behavior%20and%20Sales%20Analysis%20Dashboard.png)
 
 ### 🔑 Key Insights:
